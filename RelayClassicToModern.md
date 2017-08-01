@@ -11,6 +11,5 @@ __Some thoughts in process of RelayClassic to RelayModern in front end.__
   this page is v2 to v3, word "modern" represents relay modern, "classic" from relay classic.
   
 ### Tinking timeline
-  1.
-
+  In v2, 
   
